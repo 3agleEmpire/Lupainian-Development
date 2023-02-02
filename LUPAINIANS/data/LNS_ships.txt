@@ -1,6 +1,6 @@
-ship "Gunship"
-	sprite "ship/gunship"
-	thumbnail "thumbnail/gunship"
+ship "Izar Gunship"
+	sprite "ship/izar gunship"
+	thumbnail "thumbnail/izar gunship"
 	attributes
 		category "Medium Warship"
 		"cost" 0
