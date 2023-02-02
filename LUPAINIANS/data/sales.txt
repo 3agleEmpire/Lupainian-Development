@@ -1,2 +1,2 @@
 shipyard developer
-	"Gunship"
+	"Izar Gunship"
