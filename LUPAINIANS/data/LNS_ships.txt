@@ -7,7 +7,7 @@ ship "Izar Gunship"
 		"shields" 24800
 		"hull" 9900
 		"required crew" 14
-		"bunks" 18
+		"bunks" 23
 		"mass" 350
 		"drag" 5.7
 		"heat dissipation" .75
