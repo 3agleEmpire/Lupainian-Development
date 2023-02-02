@@ -8,14 +8,14 @@ ship "Izar Gunship"
 		"hull" 9900
 		"required crew" 14
 		"bunks" 23
-		"mass" 350
-		"drag" 5.7
+		"mass" 650
+		"drag" 8.2
 		"heat dissipation" .75
 		"fuel capacity" 400
 		"cargo space" 30
 		"outfit space" 550
 		"weapon capacity" 220
-		"engine capacity" 125
+		"engine capacity" 105
 		weapon
 			"blast radius" 150
 			"shield damage" 1500
