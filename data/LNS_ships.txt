@@ -1,0 +1,49 @@
+ship "Gunship"
+	sprite "ship/gunship"
+	thumbnail "thumbnail/gunship"
+	attributes
+		category "Medium Warship"
+		"cost" 0
+		"shields" 0
+		"hull" 10000
+		"required crew" 1
+		"bunks" 1
+		"mass" 350
+		"drag" 5.7
+		"heat dissipation" 1
+		"fuel capacity" 400
+		"cargo space" 60
+		"outfit space" 10000
+		"weapon capacity" 10000
+		"engine capacity" 10000
+		weapon
+			"blast radius" 1500
+			"shield damage" 15000
+			"hull damage" 7500
+			"hit force" 22500
+	outfits
+		"A520 Atomic Thruster"
+		"A525 Atomic Steering"
+		"NT-200 Nucleovoltaic"
+	gun -40 -90
+	gun 40 -90
+	engine -14 110
+		zoom 0.6
+	engine 14 111
+		zoom 0.6
+	"steering engine" 55 99
+		zoom 0.5
+		angle 65.00061
+		under
+		left
+	"steering engine" -55 99
+		zoom 0.5
+		angle -65.00061
+		under
+		right
+	turret -46 -53
+	turret 46 -53
+	turret 0 -91
+	turret -38 88
+	turret 38 88
+	explode "nuke explosion 1"
