@@ -4,23 +4,23 @@ ship "Gunship"
 	attributes
 		category "Medium Warship"
 		"cost" 0
-		"shields" 0
-		"hull" 10000
-		"required crew" 1
-		"bunks" 1
+		"shields" 24800
+		"hull" 9900
+		"required crew" 14
+		"bunks" 18
 		"mass" 350
 		"drag" 5.7
-		"heat dissipation" 1
+		"heat dissipation" .75
 		"fuel capacity" 400
-		"cargo space" 60
-		"outfit space" 10000
-		"weapon capacity" 10000
-		"engine capacity" 10000
+		"cargo space" 30
+		"outfit space" 550
+		"weapon capacity" 220
+		"engine capacity" 125
 		weapon
-			"blast radius" 1500
-			"shield damage" 15000
-			"hull damage" 7500
-			"hit force" 22500
+			"blast radius" 150
+			"shield damage" 1500
+			"hull damage" 750
+			"hit force" 2250
 	outfits
 		"A520 Atomic Thruster"
 		"A525 Atomic Steering"
